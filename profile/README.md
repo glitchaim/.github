@@ -7,8 +7,8 @@
 
 <p align="center">
   <ul>
-    <li>TGB</li>
-    <li>Smokyyy</li>
+    <li>Founder & Developer TGB</li>
+       <li>Management & Developer Smokyyy</li>
   </ul>
 </p>
 
