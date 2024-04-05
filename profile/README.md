@@ -3,7 +3,8 @@
   <img src="https://media.discordapp.net/attachments/840436193559707648/1223163225135386674/standard.gif?ex=6618da86&is=66066586&hm=1e92ae29440e9197abb9969bde894af48f9d991c9762d2e9259ac3ab1d8fd3ac&=&width=1440&height=83">
 </p>
 
-##👋 About us
+
+## 👋  About Us
 Glitch Aim is a PvP Server that was launched on 13 May 2021 for the FiveM community.It is based on true custom-framework glitch made by [TGB](www.github.com/techygamebar).
 With every escalation there is a downfall with time,many people tried to become obstacle between running the server hence got closed for sometime,but in Glitch Aim I prioritise what players want to say, Here we are with another try to continue the Legacy Of Glitch Aim 
 working on scripts for the server to get a fresh new start by doing it from scratch again. BUT THIS TIME I HAVE AND GOING TO PUT MY WHOLE SOLE EFFORTS AND THY SHOULD NOT GO IN VAIN.
