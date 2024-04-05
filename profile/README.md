@@ -1,18 +1,22 @@
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1153316477156466691/1177655694472790168/gaim.png?ex=65734c55&is=6560d755&hm=f222e56de61e700c48e12d706b2b7342f6bcb84c2b5a4076f61ce45d92caa633&=&format=webp&width=2566&height=148">
+  <img src="https://media.discordapp.net/attachments/840436193559707648/1223163225135386674/standard.gif?ex=6618da86&is=66066586&hm=1e92ae29440e9197abb9969bde894af48f9d991c9762d2e9259ac3ab1d8fd3ac&=&width=1440&height=83">
 </p>
 
-## The Team
+##👋 About us
+Glitch Aim is a PvP Server that was launched on 13 May 2021 for the FiveM community.It is based on true custom-framework glitch made by [TGB](www.github.com/techygamebar).
+With every escalation there is a downfall with time,many people tried to become obstacle between running the server hence got closed for sometime,but in Glitch Aim I prioritise what players want to say, Here we are with another try to continue the Legacy Of Glitch Aim 
+working on scripts for the server to get a fresh new start by doing it from scratch again. BUT THIS TIME I HAVE AND GOING TO PUT MY WHOLE SOLE EFFORTS AND THY SHOULD NOT GO IN VAIN.
 
+## 👨‍💻 Meet the team
 <p align="center">
   <ul>
-    <li>Founder & Developer TGB</li>
-       <li>Management & Developer Smokyyy</li>
+    <li><b>FOUNDER & DEVELOPER</b>[TGB](www.github.com/techygamebar)</li>
+   <li><b>MANAGEMENT</b> Smokyyy</li>
   </ul>
 </p>
 
-## Profiles to Follow
+## 👉 Profiles to Follow
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/glitchaim)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/glitchaim)
