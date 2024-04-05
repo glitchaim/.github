@@ -5,14 +5,14 @@
 
 
 ## 👋  About Us
-Glitch Aim is a PvP Server that was launched on 13 May 2021 for the FiveM community.It is based on true custom-framework glitch made by [TGB](www.github.com/techygamebar).
+Glitch Aim is a PvP Server that was launched on 13 May 2021 for the FiveM community.It is based on true custom-framework glitch made by [TGB](https://github.com/techygamebar/).
 With every escalation there is a downfall with time,many people tried to become obstacle between running the server hence got closed for sometime,but in Glitch Aim I prioritise what players want to say, Here we are with another try to continue the Legacy Of Glitch Aim 
 working on scripts for the server to get a fresh new start by doing it from scratch again. BUT THIS TIME I HAVE AND GOING TO PUT MY WHOLE SOLE EFFORTS AND THY SHOULD NOT GO IN VAIN.
 
 ## 👨‍💻 Meet the team
 <p align="center">
   <ul>
-    <li><b>FOUNDER & DEVELOPER</b>[TGB](www.github.com/techygamebar)</li>
+    <li><b>FOUNDER & DEVELOPER</b>[TGB](https://github.com/techygamebar/)</li>
    <li><b>MANAGEMENT</b> Smokyyy</li>
   </ul>
 </p>
