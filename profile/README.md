@@ -13,7 +13,6 @@ working on scripts for the server to get a fresh new start by doing it from scra
 <p align="center">
   <ul>
     <li><b>FOUNDER & DEVELOPER</b>[TGB](https://github.com/techygamebar/)</li>
-   <li><b>MANAGEMENT</b> Smokyyy</li>
   </ul>
 </p>
 
